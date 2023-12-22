@@ -1,4 +1,4 @@
-## Critérios de aceitação em Gherkin
+## Critérios de aceitação em Gherkin ✏️📘
 
 1. Acesse o documento com as 3 histórias de usuários;
 2. Cada história de usuário já tem os critérios de aceitação
